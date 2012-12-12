@@ -17,3 +17,5 @@ to push commit remotely:
 to pull files remotely:
 
    git pull remote_name master
+
+Footer:

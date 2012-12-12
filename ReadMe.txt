@@ -19,3 +19,4 @@ to pull files remotely:
    git pull remote_name master
 
 Footer:
+stuff about the footer should go here ......
